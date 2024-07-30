@@ -44,10 +44,10 @@ section#login {
 
 section#login > div#imagem {
     display: block;
-    background: #5f2c82 url(../metal.jpg) no-repeat;
+    background: #5f2c82 url(../imagens/logo2.png) no-repeat;
     background-size: cover;
     background-attachment: fixed;
-    background-position: right 40% center;
+    background-position: center center;
     height: 200px;
 
 }
